@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0305_000.yaml, hash: 'sha256:63d08b7133268e580cc54725e44349bd0a58559e1897b1247208acac713226b2'}
+  - {seq: 0, filename: KR6q0305_000.yaml, hash: 'sha256:e03a08cfc478bbc669f506b129571a9663b0730fd7bad0771e293f099f83b660'}
   - {seq: 1, filename: KR6q0305_001.yaml, hash: 'sha256:c46b9415e1ea461cba1b7a53aa7647a7811602f61d9aea5b6920e438687fa5b8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0305_000.markers.yaml, hash: 'sha256:ae424dadfad688c052686baa9dd9ee00127d67ab9c81a08977ec3394ee688313'}
+  - {seq: 0, role: markers, filename: assets/KR6q0305_000.markers.yaml, hash: 'sha256:47fbe2f308892f79f618d4d90cb29c8a4ba29a8c113a41ccd72f31eb9c04800e'}
   - {seq: 1, role: markers, filename: assets/KR6q0305_001.markers.yaml, hash: 'sha256:8f7ba0cc32a1e4f2528c36ef42cdac5fe793ea86064931b283ae6ddd84f5b17c'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0305_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1371-A 介石禪師語錄
@@ -867,7 +867,7 @@ table_of_contents:
   label: 承天石山和尚入祖堂
   type: mulu
   level: 1
-hash: sha256:d10885e62eccb72aa1cebc69db38011376d60d2901a38781b326aacd097e1473
+hash: sha256:b64978c496f350ed49ea0b1732266d1f706516195631986cdf671bfda0e23a46
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0305/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 介石禪師語録介石在南山余嘗一見之道貌充然出語警峭為其鄉人也愛之為其名輩也敬之寂久矣侍者晨景徹乃以此録遠求著語余曰有句無句如藤倚樹橫説竪説如水漉月師既如此供通如此漏逗我又如何分雪雖然師嘗七見浙翁末後因黃龍三關公案遂得浙翁一拳打失鼻孔有許㦬忉有許作略生平受用不盡又欲分付後人究竟果為誰底介石耶浙翁耶黃龍耶古人有云一字三寫焉烏成馬何況又有上石者又有下注腳者莫將黑豆換却眼睛則木馬嘶風泥牛入海去也咸淳戊辰閏正月十有五日竹溪齋林希逸書
   hash: sha256:e466405f5657582b1dda0991556c0f9d741ec9b77184055d2231fe14400182c6
   markers:
   - {type: 序, offset: 0, content: No. 1371-A 介石禪師語錄, id: KR6q0305_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 介石智朋禪師語錄
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X69/X69n1371.xml
     old_id: X69n1371
-hash: sha256:63d08b7133268e580cc54725e44349bd0a58559e1897b1247208acac713226b2
+hash: sha256:e03a08cfc478bbc669f506b129571a9663b0730fd7bad0771e293f099f83b660
